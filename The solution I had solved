@@ -3,3 +3,5 @@ Torch is not able to use GPU; add --skip-torch-cuda-test to COMMANDLINE_ARGS var
 python webui.py --xformers --listen
 Couldn't find Stable Diffusion in any of: ['/home/stable-diffusion-webui/repositories/stable-diffusion-stability-ai', '.', '/home']
 python launch.py 
+'NoneType' object has no attribute 'pop'
+Safe-and-Stable-Ckpt2Safetensors-GUI.v0.1.1
