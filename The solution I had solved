@@ -1,0 +1,2 @@
+can_run_as_root=1
+Torch is not able to use GPU; add --skip-torch-cuda-test to COMMANDLINE_ARGS variable to disable this check
