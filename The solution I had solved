@@ -2,3 +2,4 @@ can_run_as_root=1
 Torch is not able to use GPU; add --skip-torch-cuda-test to COMMANDLINE_ARGS variable to disable this check
 python webui.py --xformers --listen
 Couldn't find Stable Diffusion in any of: ['/home/stable-diffusion-webui/repositories/stable-diffusion-stability-ai', '.', '/home']
+python launch.py 
