@@ -1,0 +1,5 @@
+1. open your conda environment
+2. conda activate sdwebui
+3. D:
+4. cd stable-diffusion-webui
+5. webui-user.bat
